@@ -1,36 +1,6 @@
-# Contributing to BCA Class Lecture
-
+# Contributing to BCA_NEW IGNOU
 Thank you for your interest in contributing!
 We welcome all kinds of contributions that improve this repository.
-
----
-
-## How to Contribute
-
-1. Fork the repository
-
-2. Clone your fork:
-
-   ```
-   git clone https://github.com/your-username/BCA_class_lecture.git
-   ```
-
-3. Make your changes
-
-4. Commit your changes:
-
-   ```
-   git commit -m "Added new notes for subject XYZ"
-   ```
-5. Push you code:
-
-   ```
-   git push origin 
-   ```
-
-6. Open a Pull Request
-
----
 
 ##  What You Can Contribute
 
