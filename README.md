@@ -1,11 +1,11 @@
-# All Class Notes and Assignments 
+# All Books, PYQs and Notes  
 ---
 **Here we will share**
 - Our learnings
 - Video resources
 - Practice Questions
-- Projects
 - Semester Books
+- Notes
 
 ## Repository Structure
 
@@ -14,18 +14,26 @@ BCA_class_lecture/
 │
 ├── 1st_Sem/
 │   ├── Books/
-│   ├── Class Notes/
+│   ├── Notes/
 │   └── PYQs/
 │   
 ├── 2nd_Sem/
 │   ├── Books/
-│   └── Class Notes/
+│   └── Notes/
+│   └── PYQs/
 │       
 ├── 3rd_Sem/
 │   ├── Books/   
-│   └── Class Notes/
+│   └── Notes/
+│   └── PYQs/
 │       
 └── 4th_Sem/
+│   ├── Books/
+│   ├── Notes/
+│   └── PYQs/
+│
+└── 5th_Sem/
     ├── Books/
-    └── Class Notes/
+    ├──  Notes/
+    └── PYQs/
 ```
