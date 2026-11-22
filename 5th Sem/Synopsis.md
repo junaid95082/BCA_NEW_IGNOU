@@ -1,0 +1,37 @@
+# Synopsis Format
+- Title Page
+- Table of Contents
+- 1 Introduction
+    - 1.1 Background
+    - 1.2 Objectives
+    - 1.3 Category
+        - 1.4 Purpose, Scope, and Applicability
+        - 1.4.1 Purpose
+        - 1.4.2 Scope
+        - 1.4.3 Applicability
+    - 1.5 Software & Hardware Technologies (To Be Used)
+- 2 Requirements and Analysis
+    - 2.1 Problem Definition
+    - 2.2 Requirements Specification
+        - 2.2.1 Functional Requirements
+        - 2.2.2 Non-Functional Requirements
+        - 2.2.3 Hardware and Software Requirements
+    - 2.3 Conceptual Models
+        - 2.3.1 Data Flow Diagram — Level 0 (DFD-0)
+        - 2.3.2 Data Flow Diagram — Level 1 (DFD-1)
+        - 2.3.3 Data Flow Diagram — Level 2 (DFD-2)
+        - 2.3.4 Entity Relationship Diagram (ERD) — Chen Notation
+        - 2.3.5 Use Case Diagram
+        - 2.3.6 Class Diagram
+- 3 Basic System Design
+    - 3.1 Basic Modules
+    - 3.2 Database Design
+        - 3.2.1 Schema Design
+        - 3.2.2 Data Integrity and Constraints
+        - 3.2.3 Data Dictionary
+    - 3.3 Procedural Design
+        - 3.3.1 Flow Charts
+        - 3.3.2 Algorithms
+    - 3.4 User Interface Design
+    - 3.5 Security Issues
+- 4 References (Bibliography)
